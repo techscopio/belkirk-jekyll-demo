@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2020/06/18/1500_bgfhg1.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Govt College Kasaragod
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: Arts
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Live to Serve
 textline: Govt College Kasaragod
 hero_button:
   text: Learn more
