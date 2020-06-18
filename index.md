@@ -23,6 +23,10 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+courses:
+- heading: Science
+  description: Test
+  icon: "/uploads/2017/11/13/health.png"
 menu:
   navigation:
     identifier: _index
