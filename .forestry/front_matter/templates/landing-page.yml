@@ -41,8 +41,8 @@ fields:
     required: false
     schema:
       format: markdown
-- name: services
-  label: Services
+- name: courses
+  label: Courses
   type: field_group_list
   fields:
   - name: heading
