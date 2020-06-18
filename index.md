@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/06/18/government_college_kasaragod_03.jpg"
+banner_image: "/uploads/2020/06/18/1500_bgfhg1.jpg"
 layout: landing-page
 heading: Govt College Kasaragod
 partners:
